@@ -8,7 +8,6 @@
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/vanshraj-Git">GitHub</a>.</li>
         <li>💬 Ask me about <b>P5.js, Python, Java</b>.</li>
         <li>📫 Reach me at <a href="mailto:vanshrajc67@gmail.com">vanshrajc67@gmail.com</a>.</li>
-        <li>😄 Fun Fact: I am visiting Dubai from 29th November to 4th December.</li>
     </ul>
 
 <!-- Tech Stack Section -->
