@@ -45,12 +45,12 @@
                 </div>
                 <br>Java
             </td>
-            <td align="center" width="12.5%">
-                <div style="border: 3px solid #000; padding: 10px; display: inline-block;">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/P5js.svg" alt="P5.js" width="65" height="65" />
-                </div>
-                <br>P5.js
-            </td>
+           <td align="center" width="12.5%">
+    <div style="border: 3px solid #000; padding: 10px; display: inline-block;">
+        <img src="https://skillicons.dev/icons?i=p5js" alt="P5.js" width="48" height="48" />
+    </div>
+    <br>P5.js
+</td>
         </tr>
     </table>
 </div>
