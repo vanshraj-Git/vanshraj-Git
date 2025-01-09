@@ -1,3 +1,4 @@
+
 <h1>Hi there👋, I'm VANSHRAJ Chauhan</h1>
     <h3>Passionate Coder | Aspiring Data Scientist | Creative Problem Solver</h3>
     <p align="left">
@@ -11,46 +12,60 @@
     </ul>
 
 <!-- Tech Stack Section -->
-<h2>Tech Stack</h2>
-<div align="center">
-    <table>
+<h2>🚀 Tech Stack</h2>
+<div align="center" style="padding: 20px;">
+    <table style="border-spacing: 20px; width: 100%; max-width: 800px; margin: auto;">
         <tr>
             <td align="center" width="12.5%">
-                <div style="border: 3px solid #000; padding: 10px; display: inline-block;">
-                    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+                <div style="border: 3px solid #000; padding: 10px; display: inline-block; border-radius: 10px;">
+                    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70" />
                 </div>
-                <br>Python
+                <br><b>Python</b>
             </td>
             <td align="center" width="12.5%">
-                <div style="border: 3px solid #000; padding: 10px; display: inline-block;">
-                    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+                <div style="border: 3px solid #000; padding: 10px; display: inline-block; border-radius: 10px;">
+                    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70" />
                 </div>
-                <br>JavaScript
+                <br><b>JavaScript</b>
             </td>
             <td align="center" width="12.5%">
-                <div style="border: 3px solid #000; padding: 10px; display: inline-block;">
-                    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+                <div style="border: 3px solid #000; padding: 10px; display: inline-block; border-radius: 10px;">
+                    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="70" height="70" />
                 </div>
-                <br>Django
+                <br><b>Django</b>
             </td>
             <td align="center" width="12.5%">
-                <div style="border: 3px solid #000; padding: 10px; display: inline-block;">
-                    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
+                <div style="border: 3px solid #000; padding: 10px; display: inline-block; border-radius: 10px;">
+                    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="60" height="60" />
                 </div>
-                <br>HTML5
+                <br><b>HTML5</b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="12.5%">
+                <div style="border: 3px solid #000; padding: 10px; display: inline-block; border-radius: 10px;">
+                    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="70" height="70" />
+                </div>
+                <br><b>Java</b>
             </td>
             <td align="center" width="12.5%">
-                <div style="border: 3px solid #000; padding: 10px; display: inline-block;">
-                    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" />
+                <div style="border: 3px solid #000; padding: 10px; display: inline-block; border-radius: 10px;">
+                    <img src="https://skillicons.dev/icons?i=p5js" alt="P5.js" width="60" height="60" />
                 </div>
-                <br>Java
+                <br><b>P5.js</b>
             </td>
-           <td align="center" width="12.5%">
-    <div style="border: 3px solid #000; padding: 10px; display: inline-block;">
-        <img src="https://skillicons.dev/icons?i=p5js" alt="P5.js" width="48" height="48" />
-    </div>
-    <br>P5.js
-</td>
+            <td align="center" width="12.5%">
+                <div style="border: 3px solid #000; padding: 10px; display: inline-block; border-radius: 10px;">
+                    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70" />
+                </div>
+                <br><b>GitHub</b>
+            </td>
+            <td align="center" width="12.5%">
+                <div style="border: 3px solid transparent; padding: 10px; display: inline-block;">
+                    <!-- Placeholder if needed in the future -->
+                </div>
+                <br>
+            </td>
         </tr>
     </table>
 </div>
